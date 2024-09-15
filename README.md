@@ -1,2 +1,3 @@
 # Debojyoti_first
-My first repository. :)
+My first repository :)
+Author - Debojyoti Bain
